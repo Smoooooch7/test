@@ -1,7 +1,4 @@
-INDEX VERSION 1.3+C:\Users\testuser\Desktop\workspace\workspace-anazawa\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1610294026.index
-3749856517.index
+INDEX VERSION 1.3+C:\Users\testuser\Desktop\workspace\workspace-anazawa\test\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2055351946.index
 2530802075.index
-2398081623.index
-407876123.index
-1828128520.index
+983193932.index
