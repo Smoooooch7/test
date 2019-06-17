@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="2 個のリソースを削除" deleteContents="false" description="2 個のリソースを削除" element1="/HelloJSP" element2="/TestDB" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1560342363717"/>
-</session>
