@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws
 	ServletException, IOException {
 		request.setCharacterEncoding("UTF-8");
-		response.setContentType("text/html; charser=UTF-8");
+		response.setContentType("text/html; charset=UTF-8");
 
 		String username=request.getParameter("username");
 		String password=request.getParameter("password");
@@ -35,7 +35,7 @@ import javax.servlet.http.HttpServletResponse;
 	ServletException, IOException {
 
 		request.setCharacterEncoding("UTF-8");
-		response.setContentType("text/html; charser=UTF-8");
+		response.setContentType("text/html; charset=UTF-8");
 
 		String username=request.getParameter("username");
 		String password=request.getParameter("password");
